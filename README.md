@@ -1,5 +1,6 @@
 # ML-KNearestNeighbors
 Building, training, testing a K Nearest Neighbors model to predict diabetes occurrence from various factors  
+Python, Jupyter Notebook, Anaconda, Scikit-Learn
 
 # Data Cleaning
 Steps I am taking to clean the data:
