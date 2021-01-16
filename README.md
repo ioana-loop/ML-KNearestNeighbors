@@ -1,4 +1,4 @@
-# ML-KNearestNeighbors
+# K Nearest Neighbors Model for Diabetes Dataset
 Building, training, testing a K Nearest Neighbors model to predict diabetes occurrence from various factors  
 Python, Jupyter Notebook, Anaconda, Scikit-Learn
 
