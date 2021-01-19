@@ -2,7 +2,15 @@
 Building, training, testing a K Nearest Neighbors model to predict diabetes occurrence from various factors  
 Python, Jupyter Notebook, Anaconda, Scikit-Learn
 
-# Data Cleaning
+## KNN algorithm
+The K Nearest Neighbors model finds the proximity between a test point and nearby points. KNN is a lazy algorithm. This means it does not use the training data points to do any generalization. KNN is based on feature similarity - it figures out how closely out of sample features resemble our training set and classifies the given data point based on proximity to points in different clusters. Then, it predicts the outcome of the test points relative to which neighbors were closest.
+
+## Create training and testing data
+A training dataset is a sample of data used to fit a model. The model sees and learns from the training dataset. The remaining data becomes the test dataset, which is used as an evaluation of the model that was fit on the training dataset.
+
+
+
+## Data Processing
 Steps I am taking to clean the data:
 - First, I look at the distribution of each dataset visually (histograms for all columns)
 - I will look to see whether data is normally distributed or skewed
